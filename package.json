@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
+{
+  "name": "gaei",
+  "homepage": "https://harry020.github.io/Groupe-Afrique-Espoir/",
+  "version": "0.0.0"
+}
